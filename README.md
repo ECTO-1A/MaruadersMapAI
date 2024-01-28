@@ -1,4 +1,4 @@
-# The Enigmatic Codex: Mischief Managed
+# MaraudersMapAI: Mischief Managed
 
 ## "I solemnly swear that I am up to no good."
 
