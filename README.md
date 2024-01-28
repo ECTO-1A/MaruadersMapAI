@@ -6,4 +6,5 @@
 3) You can replace image.png with any .png image you want to use, just use the same name.
 4) To test decryption, run test.py
 5) To add decrypted message to project add : "from marauders_map import up_for_no_good" to your file and call the function up_for_no_good() to print the message to the console.
+   (Project will need a Prompt folder with the output.png containing the encrypted message.)
 
