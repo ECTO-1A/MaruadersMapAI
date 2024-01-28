@@ -54,12 +54,12 @@ Discover the tools to encrypt your most confidential messages (`mischief_managed
      ```
 
 2. **Reveal and Decrypt Prompts**:
-   - Use `up_for_no_good` from `marauders_map` to decrypt and retrieve the hidden prompt.
+   - Use `up_to_no_good` from `marauders_map` to decrypt and retrieve the hidden prompt.
    - Example:
      ```python
      from marauders_map import up_for_no_good
 
-     decrypted_prompt = up_for_no_good()
+     decrypted_prompt = up_to_no_good()
      # Use decrypted_prompt in your chatbot
      ```
 
