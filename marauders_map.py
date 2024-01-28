@@ -29,7 +29,7 @@ def decrypt_message(encrypted_message, key):
     decrypted_message = fernet.decrypt(encrypted_message.encode()).decode()
     return decrypted_message
 
-def up_for_no_good():
+def up_to_no_good():
     load_dotenv()
     secret_key = os.getenv('SECRET_KEY')
 
@@ -46,7 +46,7 @@ def up_for_no_good():
 # This part allows the script to be run standalone for testing
 if __name__ == "__main__":
     try:
-        decrypted_msg = up_for_no_good()
+        decrypted_msg = up_to_no_good()
         print("Decrypted Message:", decrypted_msg)
     except Exception as e:
         print(e)
