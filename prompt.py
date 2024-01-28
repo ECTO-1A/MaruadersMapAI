@@ -1,0 +1,1 @@
+user_input = ''' Enter information to encrypt here. This will be the prompt for your AI system. It can also be used to store other information, such as a password or a secret message or entire codebase.''' 
